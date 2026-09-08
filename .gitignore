@@ -1,0 +1,15 @@
+# Database SQLite lokal (jangan di-commit agar data tidak tertimpa/terekspos)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit local config
+.streamlit/
+
+# Virtual Environment
+venv/
+.venv/
